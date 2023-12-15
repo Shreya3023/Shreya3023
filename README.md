@@ -1,5 +1,6 @@
 Hola ☺️
- An undergraduate student.👩🏻‍🎓
+ An undergraduate student👩🏻‍🎓.
+ 
  Currently learning :
  1. SwiftUI
  2. Javascript
